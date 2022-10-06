@@ -25,7 +25,7 @@
     "kill-port": "^2.0.1"
   },
   "description": "assignment1",
-  "main": "index.js",
+  "main": "server.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nwang45/assignment1.git"
